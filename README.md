@@ -46,6 +46,6 @@ This is a static, frontend-only project created to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/udemy-clone.git
+   https://vivekraja01.github.io/Udemy-Clone-Project/
 
 Thank You for Visiting My Udemy Clone Website!
